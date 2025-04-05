@@ -1,124 +1,131 @@
 document.write(`
 
 
+   
+<div class="preloader ">
+<button class="th-btn preloaderCls">Cancel Preloader </button>
+<div class="preloader-inner">
+    <div class="loader">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+</div>
 
-
-    <!-- preloader -->
-    <div class="preloader">
-        <div class="loader-book">
-            <div class="loader-book-page"></div>
-            <div class="loader-book-page"></div>
-            <div class="loader-book-page"></div>
+<div class="popup-search-box d-none d-lg-block">
+<button class="searchClose"><i class="fal fa-times"></i></button>
+<form action="#">
+    <input type="text" placeholder="What are you looking for?">
+    <button type="submit"><i class="fal fa-search"></i></button>
+</form>
+</div><!--==============================
+Mobile Menu
+============================== -->
+<div class="th-menu-wrapper">
+<div class="th-menu-area text-center">
+    <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
+    <div class="mobile-logo">
+        <a href="website.html"><img src="assets/img/logo.png" alt="Rakar"></a>
+    </div>
+    <div class="th-mobile-menu">
+        <ul>
+            <li><a href="website.html">Home</a></li>
+            <li class="menu-item-has-children">
+                <a href="#">Our Services</a>
+                <ul class="sub-menu">
+                    <li><a href="website-designing"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
+                    <li><a href="static-website-design"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                </ul>
+            </li>    
+            <li><a href="portfolio">Portfolio</a></li>
+            <li><a href="about">About Us</a></li>
+            <li><a href="contact">Contact Us</a></li>
+        </ul>
+    </div>
+</div>
+</div><!--==============================
+Header Area
+==============================-->
+<header class="th-header header-layout5 ">
+<div class="header-top">
+    <div class="container">
+        <div class="row justify-content-center justify-content-lg-between align-items-center gy-2">
+            <div class="col-auto d-none d-lg-block">
+                <div class="header-links">
+                    <ul>
+                        <li><i class="fas fa-location-dot"></i> <script type="text/javascript"> document.write(address) </script></li>
+                        <li><i class="fas fa-clock"></i> Mon to Saturday: 9.00 am - 7.00 pm</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-auto">
+                <div class="header-links">
+                    <ul>
+                        <li class="d-none d-md-inline-block"><i class="fas fa-messages"></i> <a
+                                href="faq">FAQ</a></li>
+                        <li><i  class="fas fa-phone-volume"></i> <a href="https://wa.me/+917079203070">WhatsApp</a></li>
+                        <li><i class="fas fa-user"></i> <a href="contact">Sign In / Register</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
-    <!-- preloader end -->
-
-
-    <!-- header area -->
-    <header class="header">
-        <!-- header top -->
-        <div class="header-top">
-            <div class="container ps-0">
-                <div class="header-top-wrap">
-                    <div class="header-top-left">
-                        <div class="header-top-social">
-                            <span>Follow Us: </span>
-                            <a href="${facebook}"><i class="fab fa-facebook-f"></i></a>
-                            <a href="${instagram}"><i class="fab fa-instagram"></i></a>
-                            <a href="${youtube}"><i class="fab fa-youtube"></i></a>
-                            <a href="wa.me/+91${name}"><i class="fab fa-whatsapp"></i></a>
-                        </div>
+</div>
+<div class="sticky-wrapper">
+    <!-- Main Menu Area -->
+    <div class="container">
+        <div class="menu-area">
+            <div class="row align-items-start justify-content-between">
+                <div class="col-auto d-none d-lg-block">
+                    <div class="header-logo">
+                        <a href="website.html"><img src="assets/img/logo.png" alt="Rakar"></a>
                     </div>
-                    <div class="header-top-right">
-                        <div class="header-top-contact">
+                </div>
+                <div class="col">
+                    <div class="menu-wrap">
+                        <div class="header-logo d-block d-lg-none">
+                            <a href="website.html"><img src="assets/img/logo.png"
+                                    alt="Rakar"></a>
+                        </div>
+                        <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
-                                <li>
-                                    <a href="#"><i class="far fa-location-dot"></i> ${address}</a>
+                                <li><a href="website.html">Home</a></li>
+                                <li class="menu-item-has-children">
+                                        <a href="#">Our Services</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="website-designing"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
+                                            <li><a href="static-website-design"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                                        </ul>
                                 </li>
-                                <li>
-                                    <a
-                                        href="#"><i
-                                            class="far fa-envelopes"></i> <span >${email}</span></a>
-                                </li>
-                                <li>
-                                    <a href="tel:+91${number}"><i class="far fa-phone-volume"></i> ${number}</a>
-                                </li>
+                                <li><a href="portfolio">Portfolio</a></li>
+                                <li><a href="about">About Us</a></li>
+                                <li><a href="contact">Contact Us</a> </li>
                             </ul>
-                        </div>
+                        </nav>
+                        <button type="button" class="simple-icon searchBoxToggler d-none d-lg-inline-block"><i
+                                class="far fa-search"></i></button>
+                        <button type="button" class="th-menu-toggle d-block d-lg-none"><i
+                                class="far fa-bars"></i></button>
+                    </div>
+                </div>
+                <div class="col-auto d-none d-xl-block">
+                    <div class="header-button">
+                        <a href="contact" class="th-btn rounded-12 style3">Get A Quote<i
+                                class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="main-navigation">
-            <nav class="navbar navbar-expand-lg">
-                <div class="container position-relative">
-                    <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/logo/logo.png" alt="logo">
-                    </a>
-                    <div class="mobile-menu-right">
-                        <div class="search-btn">
-                            <button type="button" class="nav-right-link search-box-outer"><i
-                                    class="far fa-search"></i></button>
-                        </div>
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-mobile-icon"><i class="far fa-bars"></i></span>
-                        </button>
-                    </div>
-                    <div class="collapse navbar-collapse" id="main_nav">
-                        <ul class="navbar-nav">
-                            <li class="nav-item dropdown">
-                                <a class="nav-link  active" href="#" data-bs-toggle="dropdown">Home</a>
-                                
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link " href="#" data-bs-toggle="dropdown">Courses</a>
-                                
-                            </li>
-                            <li class="nav-item mega-menu dropdown">
-                                <a class="nav-link " href="#" data-bs-toggle="dropdown">Academics</a>
-                                
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link " href="#" data-bs-toggle="dropdown">About</a>
-                                
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link " href="#" data-bs-toggle="dropdown">Application Form</a>
-                                
-                            </li>
-                            
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
-                        </ul>
-                        <div class="nav-right">
-                            <div class="search-btn">
-                                <button type="button" class="nav-right-link search-box-outer"><i
-                                        class="far fa-search"></i></button>
-                            </div>
-                            <div class="nav-right-btn mt-2">
-                                <a href="application-form.html" class="theme-btn"><span
-                                        class="fal fa-pencil"></span>Apply Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </header>
-    <!-- header area end -->
-
-    <!-- popup search -->
-    <div class="search-popup">
-        <button class="close-search"><span class="far fa-times"></span></button>
-        <form action="#">
-            <div class="form-group">
-                <input type="search" name="search-field" placeholder="Search Here..." required>
-                <button type="submit"><i class="far fa-search"></i></button>
-            </div>
-        </form>
     </div>
-    <!-- popup search end -->
+</div>
+</header>
 
+<!--==============================
+Hero Area
+==============================-->
 
-    `);
+`);
