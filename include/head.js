@@ -62,7 +62,7 @@ document.write(`
     var email = 'writethesistoday@gmail.com';
     var number1 = '8882518577';
     var number2 = '8882518577';
-    var address = 'Darbhanga Bhairopatti';
+    var address = 'Tuglakabad extension street no. 21';
     var name1 = '';
 
   //   document.addEventListener('contextmenu', function(e) {
