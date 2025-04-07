@@ -50,7 +50,7 @@ Footer Area
                                 <a href="home-handyman"><img src="assets/img/logo.png"
                                         alt="Rakar"></a>
                             </div>
-                            <p class="about-text">Find out how we can help you make more money online with our tailored, expert-led digital services by booking a free consultation with one of our experts. Call us on:</p>
+                            <p class="about-text">Superiority rules our thesis writing services to offer you a peaceful research journey:</p>
                             
                         </div>
                     </div>
@@ -65,8 +65,7 @@ Footer Area
                                 <li><a href="about">About Us</a></li>
                                 <li><a href="about">Pricing Plan</a></li>
                                 <li><a href="service">Services</a></li>
-                                <li><a href="#">Testimonial</a></li>
-                                <li><a href="contact">Appointment</a></li>
+                               
                             </ul>
                         </div>
                     </div>
@@ -77,26 +76,27 @@ Footer Area
                             Services</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="service">Social Media Promotion</a></li>
-                                <li><a href="service">Website Development</a></li>
-                                <li><a href="service">Digital Marketing</a></li>
-                                <li><a href="service">Apps Development</a></li>
-                                <li><a href="service">E-commerce</a></li>
-                                <li><a href="service">CMS</a></li>
+                                <li><a href="service">Basic Science</a></li>
+                                <li><a href="service">Medical</a></li>
+                                <li><a href="service">Pharmacy Management </a></li>
+                                <li><a href="service">Contact Us</a></li>
+                               
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-auto">
-                    <div class="widget newsletter-widget footer-widget">
-                        <h3 class="widget_title"><img src="assets/img/icon/footer_title5.svg" alt="icon"> Newsletter
-                        </h3>
-                        <p class="footer-text">Get latest updates and offers.</p>
-                        <form class="newsletter-form">
-                            <input class="form-control" type="email" placeholder="Enter email address" required="">
-                            <button type="submit" class="th-btn style3">Subscribe<i
-                                    class="far fa-arrow-right ms-2"></i></button>
-                        </form>
+                    <div class="widget widget_nav_menu footer-widget">
+                        <h3 class="widget_title"><img src="assets/img/icon/footer_title5.svg" alt="icon"> Contact Info</h3>
+                        <div class="menu-all-pages-container">
+                            <ul class="menu">
+                                <li><a href="#">+91-8882518577</a></li>
+                                <li><a href="#">+91-8219558088</a></li>
+                                <li><a href="#">writethesistoday@gmail.com</a></li>
+                                <li><a href="#">admin@writethesistoday.in</a></li>
+                               
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
