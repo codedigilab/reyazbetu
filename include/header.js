@@ -33,23 +33,23 @@ Mobile Menu
     </div>
     <div class="th-mobile-menu">
         <ul>
-            <li><a href="website.html">Home</a></li>
+            <li><a href="index">Home</a></li>
             <li><a href="about">About Us</a></li>
             <li class="menu-item-has-children">
                 <a href="#">Our Services</a>
                 <ul class="sub-menu">
-                    <li><a href="website-designing"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                    <li><a href="static-website-design"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
                 </ul>
             </li>    
             <li class="menu-item-has-children">
                 <a href="#">Samples</a>
                 <ul class="sub-menu">
-                    <li><a href="website-designing"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                    <li><a href="static-website-design"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
                 </ul>
             </li> 
-            <li><a href="portfolio">Prices</a></li>
+            <li><a href="#">Prices</a></li>
             
             <li><a href="contact">Contact Us</a></li>
         </ul>
@@ -101,23 +101,23 @@ Header Area
                         </div>
                         <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
-                                <li><a href="website.html">Home</a></li>
+                                <li><a href="index">Home</a></li>
                                 <li><a href="about">About Us</a></li>
                                 <li class="menu-item-has-children">
                                         <a href="#">Our Services</a>
                                         <ul class="sub-menu">
-                                            <li><a href="website-designing"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                                            <li><a href="static-website-design"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
                                         </ul>
                                 </li>
                                 <li class="menu-item-has-children">
                                         <a href="#">Samples</a>
                                         <ul class="sub-menu">
-                                            <li><a href="website-designing"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                                            <li><a href="static-website-design"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
                                         </ul>
                                 </li>
-                                <li><a href="portfolio">Prices</a></li>
+                                <li><a href="#">Prices</a></li>
                                 
                                 <li><a href="contact">Contact Us</a> </li>
                             </ul>
