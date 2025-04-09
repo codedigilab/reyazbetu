@@ -38,15 +38,15 @@ Mobile Menu
             <li class="menu-item-has-children">
                 <a href="#">Our Services</a>
                 <ul class="sub-menu">
-                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service</a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service </a></li>
                 </ul>
             </li>    
             <li class="menu-item-has-children">
                 <a href="#">Samples</a>
                 <ul class="sub-menu">
-                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service</a></li>
+                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service </a></li>
                 </ul>
             </li> 
             <li><a href="#">Prices</a></li>
@@ -106,15 +106,15 @@ Header Area
                                 <li class="menu-item-has-children">
                                         <a href="#">Our Services</a>
                                         <ul class="sub-menu">
-                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service</a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service </a></li>
                                         </ul>
                                 </li>
                                 <li class="menu-item-has-children">
                                         <a href="#">Samples</a>
                                         <ul class="sub-menu">
-                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Website Designing</a></li>
-                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Static website design </a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service</a></li>
+                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service </a></li>
                                         </ul>
                                 </li>
                                 <li><a href="#">Prices</a></li>
