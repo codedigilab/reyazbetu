@@ -200,101 +200,55 @@ const CorporateWebsite  = [
 const CorporateWebsite2  = [
     {
         number: '01',
-        title: 'Website Designing',
+        title: 'Research Writing',
         details:'',
-        link:'website-designing',
+        link:'#',
     },
     {
         number: '02',
-        title: 'Static website design',
+        title: 'Research Paper Writing',
         details:'',
-        link:'static-website-design',
+        link:'#',
     },
     {
         number: '03',
-        title: 'Startup website design',
+        title: 'Literature Review Writing',
         details:'',
         link:'#',
         
     },
     {
         number: '04',
-        title: 'Free Website Design',
+        title: 'Research Implementation',
         details:'',
         link:'#',
     },
     {
         number: '05',
-        title: 'Dynamic website design',
+        title: 'Review Paper Writing',
         details:'',
         link:'#',
     },
     {
         number: '06',
-        title: 'Corporate website design',
+        title: 'Thesis Writing Service',
         details:'',
         link:'#',
     },
     {
         number: '07',
-        title: 'CMS development',
+        title: 'Synopsis Writing Service',
         details:'',
         link:'#',
     },
     {
         number: '08',
-        title: 'E-commerce website',
+        title: 'Journal Publication',
         details:'',
         link:'#',
     },
-    {
-        number: '09',
-        title: 'Psd to HTML design',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '10',
-        title: 'Landing page website',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '11',
-        title: 'Email template design',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '12',
-        title: 'Custom website development',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '13',
-        title: 'Multi vendor Website',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '14',
-        title: 'Business profile website',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '15',
-        title: 'Informative website',
-        details:'',
-        link:'#',
-    },
-    {
-        number: '16',
-        title: 'Portfolio website',
-        details:'',
-        link:'#',
-    }
+
+   
     
 ]
 
