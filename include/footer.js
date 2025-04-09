@@ -79,7 +79,7 @@ Footer Area
                                 <li><a href="service">Basic Science</a></li>
                                 <li><a href="service">Medical</a></li>
                                 <li><a href="service">Pharmacy Management </a></li>
-                                <li><a href="service">Contact Us</a></li>
+                                <li><a href="contact">Contact Us</a></li>
                                
                             </ul>
                         </div>
