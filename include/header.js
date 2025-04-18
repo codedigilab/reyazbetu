@@ -38,8 +38,9 @@ Mobile Menu
             <li class="menu-item-has-children">
                 <a href="#">Our Services</a>
                 <ul class="sub-menu">
-                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service</a></li>
-                    <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service </a></li>
+                    <li><a href="thesis.html"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing </a></li>
+                    <li><a href="synopsis.html"><img src="assets/img/icon/cat_5.svg" alt="icon"> Synopsis Writing  </a></li>
+                    <li><a href="research.html"><img src="assets/img/icon/cat_5.svg" alt="icon"> Research Paper Writing  </a></li>
                 </ul>
             </li>    
             <li class="menu-item-has-children">
@@ -106,8 +107,9 @@ Header Area
                                 <li class="menu-item-has-children">
                                         <a href="#">Our Services</a>
                                         <ul class="sub-menu">
-                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service</a></li>
-                                            <li><a href="#"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing Service </a></li>
+                                            <li><a href="thesis.html"><img src="assets/img/icon/cat_5.svg" alt="icon"> Thesis Writing</a></li>
+                                            <li><a href="synopsis.html"><img src="assets/img/icon/cat_5.svg" alt="icon"> Synopsis Writing </a></li>
+                                            <li><a href="research.html"><img src="assets/img/icon/cat_5.svg" alt="icon"> Research Paper Writing </a></li>
                                         </ul>
                                 </li>
                                 <li class="menu-item-has-children">
